@@ -19,7 +19,7 @@
 
 ## 🌌 Overview
 
-**Axon X** is a high-performance, military-grade Discord bot landing page inspired by modern sci-fi aesthetics and top-tier SaaS platforms (like [xieron.com](https://xieron.com/)). Featuring deep blue & electric cyan neon tones (`#030712`, `#060e1d`, `#2563eb`, `#38bdf8`), 60fps HTML5 interactive constellations, mouse-tracking spotlight glow cards, and an on-demand modal architecture.
+**Axon X** is a high-performance, military-grade Discord bot landing page engineered with futuristic cyber aesthetics. Featuring deep blue & electric cyan neon tones (`#030712`, `#060e1d`, `#2563eb`, `#38bdf8`), 60fps HTML5 interactive constellations, mouse-tracking spotlight glow cards, and an on-demand modal architecture.
 
 ---
 
