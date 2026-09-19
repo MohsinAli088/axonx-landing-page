@@ -63,8 +63,8 @@ Bulky content is organized into on-demand frosted glass modals to keep the homep
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MohsinAli088/axonx-landing.git
-cd axonx-landing
+git clone https://github.com/MohsinAli088/axonx-landing-page.git
+cd axonx-landing-page
 ```
 
 ### 2. Install Dependencies
