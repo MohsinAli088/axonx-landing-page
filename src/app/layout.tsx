@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Orbitron, Inter } from "next/font/google";
 import "./globals.css";
-import { siteConfig } from "@/lib/site-config";
+import { siteConfig, getSiteUrl } from "@/lib/site-config";
 
 const orbitron = Orbitron({
   subsets: ["latin"],
@@ -16,7 +16,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const siteUrl = getSiteUrl();
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
