@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy_Ready-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-[**Live Demo**](https://your-domain.vercel.app) • [**Add to Discord**](https://discord.com/oauth2/authorize?client_id=1479842310081482792&permissions=8&scope=bot+applications.commands) • [**Support Server**](https://discord.gg/codexdevs)
+[**Live Demo**](https://axonx-landing-page.vercel.app/) • [**Add to Discord**](https://discord.com/oauth2/authorize?client_id=1479842310081482792&permissions=8&scope=bot+applications.commands) • [**Support Server**](https://discord.gg/codexdevs)
 
 </div>
 
